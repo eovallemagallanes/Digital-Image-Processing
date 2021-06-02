@@ -7,7 +7,7 @@ This repository constains the Python code of the Lecture Notes of Digital Image 
 
 **Instructor** PhD. Juan Gabriel Aviña-Cervantes, avina@ugto.mx
 
-**Assistant profesor**: MsC: Emmanuel Ovalle-Magallanes, e.ovallemagallanes@ugto.mx
+**Assistant profesor**: MCs: Emmanuel Ovalle-Magallanes, e.ovallemagallanes@ugto.mx
 
 If you are using any of the code, please cite as:
 

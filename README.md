@@ -11,6 +11,7 @@ This repository constains the Python code of the Lecture Notes of Digital Image 
 
 If you are using any of the code, please cite as:
 
+```
 @misc{DIP2021,
   author        = {Ovalle-Magallanes, Emmanuel and Avina-Cervantes, Juan Gabriel},
   title         = {Lecture notes in Digital Image Processing},
@@ -18,3 +19,4 @@ If you are using any of the code, please cite as:
   year          = {2021},
   publisher={Telematics (CA) and Digital Signal Processing (CA) Groups, Engineering Division (DICIS), Campus Irapuato-Salamanca, University of Guanajuato, Salamanca 36885, Mexico}
 }
+```
